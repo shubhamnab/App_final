@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "img":"Crow.jpg",
+        "title":"Crow",
+        "head":"Birds"
+    },
+    {
+        "id":2,
+        "img":"Duck.jpg",
+        "title":"Duck",
+        "head":"Birds"
+    },
+    {
+        "id":3,
+        "img":"Eagle.jpg",
+        "title":"Eagle",
+        "head":"Birds"
+    },
+    {
+        "id":4,
+        "img":"Ostrich.jpg",
+        "title":"Ostrich",
+        "head":"Birds"
+    },
+    {
+        "id":5,
+        "img":"Parrot.jpg",
+        "title":"Parrot",
+        "head":"Birds"
+    },
+    {
+        "id":6,
+        "img":"Peacock.jpg",
+        "title":"Peacock",
+        "head":"Birds"
+    },
+    {
+        "id":7,
+        "img":"Peagon.jpg",
+        "title":"Peagon",
+        "head":"Birds"
+    },
+    {
+        "id":8,
+        "img":"Sparrow.jpg",
+        "title":"Sparrow",
+        "head":"Birds"
+    },
+    {
+        "id":9,
+        "img":"Woodpicker.jpg",
+        "title":"Woodpicker",
+        "head":"Birds"
+    }
+
+    
+    
+]
